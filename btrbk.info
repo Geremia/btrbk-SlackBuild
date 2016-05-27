@@ -1,0 +1,8 @@
+PRGNAM="btrbk"
+VERSION="0.23.1"
+HOMEPAGE="https://digint.ch/btrbk/"
+DOWNLOAD="https://digint.ch/download/btrbk/releases/btrbk-0.23.1.tar.xz"
+MD5SUM="603145963002c08da36957b1e4b38e41"
+REQUIRES=""
+MAINTAINER="Alan Aversa"
+EMAIL="AveNOrsa@email.AriSPAMzona.edu (remove NO and SPAM)"
