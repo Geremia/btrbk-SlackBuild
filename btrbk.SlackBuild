@@ -93,4 +93,4 @@ rm -fr "$PKG"/usr/lib/systemd/
 
 # Make the package
 cd "$PKG"
-/sbin/makepkg -l y -c n "$OUTPUT"/"$PRGNAM"-"$VERSION"-"$ARCH"-"$BUILD""$TAG".${PKGTYPE:-tgz}
+/sbin/makepkg -l y -c y "$OUTPUT"/"$PRGNAM"-"$VERSION"-"$ARCH"-"$BUILD""$TAG".${PKGTYPE:-tgz}
